@@ -1,9 +1,0 @@
-name: Food
-version: 1.0.0
-src-namespace-prefix: Alwisuep21\Food
-main: Alwisuep21\Food\Main
-api: 5.0.0
-depend:
-  - Customies
-authors:
-  - Alwisuep21
